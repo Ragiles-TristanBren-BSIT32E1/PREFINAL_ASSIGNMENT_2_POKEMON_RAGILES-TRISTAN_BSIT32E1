@@ -1,0 +1,99 @@
+D:\aral\3rd yr32E1\pokemon\pokemonact2\pokemonact2\bin\Debug\net8.0\appsettings.Development.json
+D:\aral\3rd yr32E1\pokemon\pokemonact2\pokemonact2\bin\Debug\net8.0\appsettings.json
+D:\aral\3rd yr32E1\pokemon\pokemonact2\pokemonact2\bin\Debug\net8.0\pokemonact2.staticwebassets.runtime.json
+D:\aral\3rd yr32E1\pokemon\pokemonact2\pokemonact2\bin\Debug\net8.0\pokemonact2.exe
+D:\aral\3rd yr32E1\pokemon\pokemonact2\pokemonact2\bin\Debug\net8.0\pokemonact2.deps.json
+D:\aral\3rd yr32E1\pokemon\pokemonact2\pokemonact2\bin\Debug\net8.0\pokemonact2.runtimeconfig.json
+D:\aral\3rd yr32E1\pokemon\pokemonact2\pokemonact2\bin\Debug\net8.0\pokemonact2.dll
+D:\aral\3rd yr32E1\pokemon\pokemonact2\pokemonact2\bin\Debug\net8.0\pokemonact2.pdb
+D:\aral\3rd yr32E1\pokemon\pokemonact2\pokemonact2\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\aral\3rd yr32E1\pokemon\pokemonact2\pokemonact2\obj\Debug\net8.0\pokemonact2.csproj.AssemblyReference.cache
+D:\aral\3rd yr32E1\pokemon\pokemonact2\pokemonact2\obj\Debug\net8.0\pokemonact2.GeneratedMSBuildEditorConfig.editorconfig
+D:\aral\3rd yr32E1\pokemon\pokemonact2\pokemonact2\obj\Debug\net8.0\pokemonact2.AssemblyInfoInputs.cache
+D:\aral\3rd yr32E1\pokemon\pokemonact2\pokemonact2\obj\Debug\net8.0\pokemonact2.AssemblyInfo.cs
+D:\aral\3rd yr32E1\pokemon\pokemonact2\pokemonact2\obj\Debug\net8.0\pokemonact2.csproj.CoreCompileInputs.cache
+D:\aral\3rd yr32E1\pokemon\pokemonact2\pokemonact2\obj\Debug\net8.0\pokemonact2.MvcApplicationPartsAssemblyInfo.cache
+D:\aral\3rd yr32E1\pokemon\pokemonact2\pokemonact2\obj\Debug\net8.0\pokemonact2.RazorAssemblyInfo.cache
+D:\aral\3rd yr32E1\pokemon\pokemonact2\pokemonact2\obj\Debug\net8.0\pokemonact2.RazorAssemblyInfo.cs
+D:\aral\3rd yr32E1\pokemon\pokemonact2\pokemonact2\obj\Debug\net8.0\staticwebassets.build.json
+D:\aral\3rd yr32E1\pokemon\pokemonact2\pokemonact2\obj\Debug\net8.0\staticwebassets.development.json
+D:\aral\3rd yr32E1\pokemon\pokemonact2\pokemonact2\obj\Debug\net8.0\staticwebassets\msbuild.pokemonact2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\aral\3rd yr32E1\pokemon\pokemonact2\pokemonact2\obj\Debug\net8.0\staticwebassets\msbuild.build.pokemonact2.props
+D:\aral\3rd yr32E1\pokemon\pokemonact2\pokemonact2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.pokemonact2.props
+D:\aral\3rd yr32E1\pokemon\pokemonact2\pokemonact2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.pokemonact2.props
+D:\aral\3rd yr32E1\pokemon\pokemonact2\pokemonact2\obj\Debug\net8.0\staticwebassets.pack.json
+D:\aral\3rd yr32E1\pokemon\pokemonact2\pokemonact2\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\aral\3rd yr32E1\pokemon\pokemonact2\pokemonact2\obj\Debug\net8.0\scopedcss\bundle\pokemonact2.styles.css
+D:\aral\3rd yr32E1\pokemon\pokemonact2\pokemonact2\obj\Debug\net8.0\scopedcss\projectbundle\pokemonact2.bundle.scp.css
+D:\aral\3rd yr32E1\pokemon\pokemonact2\pokemonact2\obj\Debug\net8.0\pokemona.4C7E8329.Up2Date
+D:\aral\3rd yr32E1\pokemon\pokemonact2\pokemonact2\obj\Debug\net8.0\pokemonact2.dll
+D:\aral\3rd yr32E1\pokemon\pokemonact2\pokemonact2\obj\Debug\net8.0\refint\pokemonact2.dll
+D:\aral\3rd yr32E1\pokemon\pokemonact2\pokemonact2\obj\Debug\net8.0\pokemonact2.pdb
+D:\aral\3rd yr32E1\pokemon\pokemonact2\pokemonact2\obj\Debug\net8.0\pokemonact2.genruntimeconfig.cache
+D:\aral\3rd yr32E1\pokemon\pokemonact2\pokemonact2\obj\Debug\net8.0\ref\pokemonact2.dll
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_GEROLIA_JOHNGABRIEL_BSIT32E1-main\pokemonact2\pokemonact2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_GEROLIA_JOHNGABRIEL_BSIT32E1-main\pokemonact2\pokemonact2\bin\Debug\net8.0\appsettings.json
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_GEROLIA_JOHNGABRIEL_BSIT32E1-main\pokemonact2\pokemonact2\bin\Debug\net8.0\pokemonact2.staticwebassets.runtime.json
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_GEROLIA_JOHNGABRIEL_BSIT32E1-main\pokemonact2\pokemonact2\bin\Debug\net8.0\pokemonact2.exe
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_GEROLIA_JOHNGABRIEL_BSIT32E1-main\pokemonact2\pokemonact2\bin\Debug\net8.0\pokemonact2.deps.json
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_GEROLIA_JOHNGABRIEL_BSIT32E1-main\pokemonact2\pokemonact2\bin\Debug\net8.0\pokemonact2.runtimeconfig.json
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_GEROLIA_JOHNGABRIEL_BSIT32E1-main\pokemonact2\pokemonact2\bin\Debug\net8.0\pokemonact2.dll
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_GEROLIA_JOHNGABRIEL_BSIT32E1-main\pokemonact2\pokemonact2\bin\Debug\net8.0\pokemonact2.pdb
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_GEROLIA_JOHNGABRIEL_BSIT32E1-main\pokemonact2\pokemonact2\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_GEROLIA_JOHNGABRIEL_BSIT32E1-main\pokemonact2\pokemonact2\obj\Debug\net8.0\pokemonact2.csproj.AssemblyReference.cache
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_GEROLIA_JOHNGABRIEL_BSIT32E1-main\pokemonact2\pokemonact2\obj\Debug\net8.0\pokemonact2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_GEROLIA_JOHNGABRIEL_BSIT32E1-main\pokemonact2\pokemonact2\obj\Debug\net8.0\pokemonact2.AssemblyInfoInputs.cache
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_GEROLIA_JOHNGABRIEL_BSIT32E1-main\pokemonact2\pokemonact2\obj\Debug\net8.0\pokemonact2.AssemblyInfo.cs
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_GEROLIA_JOHNGABRIEL_BSIT32E1-main\pokemonact2\pokemonact2\obj\Debug\net8.0\pokemonact2.csproj.CoreCompileInputs.cache
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_GEROLIA_JOHNGABRIEL_BSIT32E1-main\pokemonact2\pokemonact2\obj\Debug\net8.0\pokemonact2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_GEROLIA_JOHNGABRIEL_BSIT32E1-main\pokemonact2\pokemonact2\obj\Debug\net8.0\pokemonact2.RazorAssemblyInfo.cache
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_GEROLIA_JOHNGABRIEL_BSIT32E1-main\pokemonact2\pokemonact2\obj\Debug\net8.0\pokemonact2.RazorAssemblyInfo.cs
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_GEROLIA_JOHNGABRIEL_BSIT32E1-main\pokemonact2\pokemonact2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_GEROLIA_JOHNGABRIEL_BSIT32E1-main\pokemonact2\pokemonact2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_GEROLIA_JOHNGABRIEL_BSIT32E1-main\pokemonact2\pokemonact2\obj\Debug\net8.0\staticwebassets\msbuild.pokemonact2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_GEROLIA_JOHNGABRIEL_BSIT32E1-main\pokemonact2\pokemonact2\obj\Debug\net8.0\staticwebassets\msbuild.build.pokemonact2.props
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_GEROLIA_JOHNGABRIEL_BSIT32E1-main\pokemonact2\pokemonact2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.pokemonact2.props
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_GEROLIA_JOHNGABRIEL_BSIT32E1-main\pokemonact2\pokemonact2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.pokemonact2.props
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_GEROLIA_JOHNGABRIEL_BSIT32E1-main\pokemonact2\pokemonact2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_GEROLIA_JOHNGABRIEL_BSIT32E1-main\pokemonact2\pokemonact2\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_GEROLIA_JOHNGABRIEL_BSIT32E1-main\pokemonact2\pokemonact2\obj\Debug\net8.0\scopedcss\bundle\pokemonact2.styles.css
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_GEROLIA_JOHNGABRIEL_BSIT32E1-main\pokemonact2\pokemonact2\obj\Debug\net8.0\scopedcss\projectbundle\pokemonact2.bundle.scp.css
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_GEROLIA_JOHNGABRIEL_BSIT32E1-main\pokemonact2\pokemonact2\obj\Debug\net8.0\pokemona.4C7E8329.Up2Date
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_GEROLIA_JOHNGABRIEL_BSIT32E1-main\pokemonact2\pokemonact2\obj\Debug\net8.0\pokemonact2.dll
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_GEROLIA_JOHNGABRIEL_BSIT32E1-main\pokemonact2\pokemonact2\obj\Debug\net8.0\refint\pokemonact2.dll
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_GEROLIA_JOHNGABRIEL_BSIT32E1-main\pokemonact2\pokemonact2\obj\Debug\net8.0\pokemonact2.pdb
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_GEROLIA_JOHNGABRIEL_BSIT32E1-main\pokemonact2\pokemonact2\obj\Debug\net8.0\pokemonact2.genruntimeconfig.cache
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_GEROLIA_JOHNGABRIEL_BSIT32E1-main\pokemonact2\pokemonact2\obj\Debug\net8.0\ref\pokemonact2.dll
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_RAGILES,TRISTAN_BSIT32E1\pokemonact2\pokemonact2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_RAGILES,TRISTAN_BSIT32E1\pokemonact2\pokemonact2\bin\Debug\net8.0\appsettings.json
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_RAGILES,TRISTAN_BSIT32E1\pokemonact2\pokemonact2\bin\Debug\net8.0\pokemonact2.staticwebassets.runtime.json
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_RAGILES,TRISTAN_BSIT32E1\pokemonact2\pokemonact2\bin\Debug\net8.0\pokemonact2.exe
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_RAGILES,TRISTAN_BSIT32E1\pokemonact2\pokemonact2\bin\Debug\net8.0\pokemonact2.deps.json
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_RAGILES,TRISTAN_BSIT32E1\pokemonact2\pokemonact2\bin\Debug\net8.0\pokemonact2.runtimeconfig.json
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_RAGILES,TRISTAN_BSIT32E1\pokemonact2\pokemonact2\bin\Debug\net8.0\pokemonact2.dll
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_RAGILES,TRISTAN_BSIT32E1\pokemonact2\pokemonact2\bin\Debug\net8.0\pokemonact2.pdb
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_RAGILES,TRISTAN_BSIT32E1\pokemonact2\pokemonact2\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_RAGILES,TRISTAN_BSIT32E1\pokemonact2\pokemonact2\obj\Debug\net8.0\pokemonact2.csproj.AssemblyReference.cache
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_RAGILES,TRISTAN_BSIT32E1\pokemonact2\pokemonact2\obj\Debug\net8.0\pokemonact2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_RAGILES,TRISTAN_BSIT32E1\pokemonact2\pokemonact2\obj\Debug\net8.0\pokemonact2.AssemblyInfoInputs.cache
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_RAGILES,TRISTAN_BSIT32E1\pokemonact2\pokemonact2\obj\Debug\net8.0\pokemonact2.AssemblyInfo.cs
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_RAGILES,TRISTAN_BSIT32E1\pokemonact2\pokemonact2\obj\Debug\net8.0\pokemonact2.csproj.CoreCompileInputs.cache
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_RAGILES,TRISTAN_BSIT32E1\pokemonact2\pokemonact2\obj\Debug\net8.0\pokemonact2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_RAGILES,TRISTAN_BSIT32E1\pokemonact2\pokemonact2\obj\Debug\net8.0\pokemonact2.RazorAssemblyInfo.cache
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_RAGILES,TRISTAN_BSIT32E1\pokemonact2\pokemonact2\obj\Debug\net8.0\pokemonact2.RazorAssemblyInfo.cs
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_RAGILES,TRISTAN_BSIT32E1\pokemonact2\pokemonact2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_RAGILES,TRISTAN_BSIT32E1\pokemonact2\pokemonact2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_RAGILES,TRISTAN_BSIT32E1\pokemonact2\pokemonact2\obj\Debug\net8.0\staticwebassets\msbuild.pokemonact2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_RAGILES,TRISTAN_BSIT32E1\pokemonact2\pokemonact2\obj\Debug\net8.0\staticwebassets\msbuild.build.pokemonact2.props
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_RAGILES,TRISTAN_BSIT32E1\pokemonact2\pokemonact2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.pokemonact2.props
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_RAGILES,TRISTAN_BSIT32E1\pokemonact2\pokemonact2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.pokemonact2.props
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_RAGILES,TRISTAN_BSIT32E1\pokemonact2\pokemonact2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_RAGILES,TRISTAN_BSIT32E1\pokemonact2\pokemonact2\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_RAGILES,TRISTAN_BSIT32E1\pokemonact2\pokemonact2\obj\Debug\net8.0\scopedcss\bundle\pokemonact2.styles.css
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_RAGILES,TRISTAN_BSIT32E1\pokemonact2\pokemonact2\obj\Debug\net8.0\scopedcss\projectbundle\pokemonact2.bundle.scp.css
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_RAGILES,TRISTAN_BSIT32E1\pokemonact2\pokemonact2\obj\Debug\net8.0\pokemona.4C7E8329.Up2Date
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_RAGILES,TRISTAN_BSIT32E1\pokemonact2\pokemonact2\obj\Debug\net8.0\pokemonact2.dll
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_RAGILES,TRISTAN_BSIT32E1\pokemonact2\pokemonact2\obj\Debug\net8.0\refint\pokemonact2.dll
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_RAGILES,TRISTAN_BSIT32E1\pokemonact2\pokemonact2\obj\Debug\net8.0\pokemonact2.pdb
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_RAGILES,TRISTAN_BSIT32E1\pokemonact2\pokemonact2\obj\Debug\net8.0\pokemonact2.genruntimeconfig.cache
+C:\Users\TristanBren\Desktop\-PREFINAL_ASSIGNMENT_TWO_POKEMON_RAGILES,TRISTAN_BSIT32E1\pokemonact2\pokemonact2\obj\Debug\net8.0\ref\pokemonact2.dll
